@@ -143,5 +143,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Based on the [markitdown](https://github.com/microsoft/markitdown) library by Microsoft
-- Uses various open-source libraries for file format conversion
+This project uses code from the [markitdown](https://github.com/microsoft/markitdown) library by Microsoft.
+The original implementation is included in this repository as per its license terms.
